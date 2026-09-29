@@ -14,7 +14,7 @@ Cara singkat penggunaan dari aplikasi pencatatan transaksi keuangan dan pengelol
 <img width="257" height="553" alt="image" src="https://github.com/user-attachments/assets/4076739b-1a23-4d96-97c7-f6e989b99c32" />
 <img width="268" height="563" alt="image" src="https://github.com/user-attachments/assets/9d29f839-cb21-4a3f-b0ba-9e7ee39e9a86" />
 
-7. Balik ke halaman manajemen stok dan tekan _burger button _on untuk ke _sidebar_ kemudian pergi ke halaman yang ingin dituju seperti pengaturan, statistik, lihat laporan keuangan dan arus barang, dan cetak struk.
+7. Balik ke halaman manajemen stok dan tekan _burger button _on untuk ke _sidebar_ kemudian pergi ke halaman yang ingin dituju seperti pengaturan, analisis visual, lihat laporan keuangan dan arus barang, dan cetak struk.
 <img width="391" height="821" alt="image" src="https://github.com/user-attachments/assets/b3489992-3c39-44d1-8b95-f8fc9c50fcef" />
 
 
